@@ -1,0 +1,48 @@
+body {
+  background-color: Orange;
+   }
+ div {
+  background-color: lightcoral; 
+   }
+
+h2 {
+ color: Darkgreen;
+}
+
+h3 {
+  color: Darkgreen;
+  }
+
+p {
+   color: Darkgreen;
+}
+.smaller-image {
+width: 90px;
+}
+  .thin-grey-border {
+    border-color: silver;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 1000px;
+   }
+hr.new1 {
+  border-top: 3px solid black;
+}
+hr.new2 {
+  border-top: 3px solid black;
+}
+hr.new3 {
+  border-top: 3px solid black;
+}
+hr.new4 {
+  border-top: 3px solid black;
+}
+hr.new5 {
+  border-top: 3px solid black;
+}
+hr.new6 {
+  border-top: 3px solid black;
+}
+ul {
+   color: Brown;
+}
