@@ -58,7 +58,7 @@ textarea {
   box-sizing: border-box;
   border-radius: 4px;
 }
-input[type=button] {
+input[type=submit] {
    background-color: Darkgreen;
   border: none;
   color: white;
